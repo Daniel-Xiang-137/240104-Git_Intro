@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfghjkl
+=======
+qwertyuiop
+>>>>>>> 70d08d32d359b12cb92b92b4199877dfe1eeb383
